@@ -14,6 +14,9 @@ namespace _2._36
              * 2017.01.21.
              * Area of a triangle from its vertices' coordinates
              * 
+             * Of course there is a simpler way of doing it: the Heron's formula
+             * But it's too easy for us
+             *
              * The algorithm:
              *  - calculating one of the altitudes of the triangle
              *     - select a not horizontal or vertical side of the triangle
